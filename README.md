@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a [PowerShell wrapper for the Lockpath API](https://github.com/RobertKlohr/PowerShellForLockpath)
+- 🔭 I’m currently maintaing a [PowerShell wrapper for the NAVEX IRM API](https://github.com/RobertKlohr/PowerShellForLockpath)
 - 🌱 I’m currently learning [C++](https://www.cplusplus.com/)
 - 💬 Ask me about any realted to [information security, compliance, or risk management](https://en.wikipedia.org/wiki/Information_security)
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/robertklohr/)
