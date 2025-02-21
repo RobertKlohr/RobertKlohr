@@ -1,5 +1,5 @@
 - 🔭 I’m currently maintaing a [PowerShell wrapper for the NAVEX IRM API](https://github.com/RobertKlohr/PowerShellForLockpath)
-- 🌱 I’m currently learning [C++](https://www.cplusplus.com/)
+- 🌱 I’m currently learning [c++](https://www.cplusplus.com/) and [c#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - 💬 Ask me about any realted to [information security, compliance, or risk management](https://en.wikipedia.org/wiki/Information_security)
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/robertklohr/)
 - 😄 Pronouns: he/him
